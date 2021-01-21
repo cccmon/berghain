@@ -36,7 +36,7 @@
          "properties":[
                 {
                  "name":"openWebsite",
-                 "type":"string",
+                 "type":"https://padlet.com/katharinagrimmgs/pqsw3t9zp5e687is",
                  "value":"https://padlet.com/katharinagrimmgs/pqsw3t9zp5e687is"
                 }],
          "type":"tilelayer",
