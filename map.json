@@ -204,8 +204,8 @@
          "properties":[
                 {
                  "name":"openWebsite",
-                 "type":"string",
-                 "value":"https://padlet.com/katharinagrimmgs/pqsw3t9zp5e687is"
+                 "type":"string ",
+                 "value":"https:\/\/padlet.com\/katharinagrimmgs\/pqsw3t9zp5e687is"
                 }],
          "type":"tilelayer",
          "visible":true,
